@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Convertidor</string>
+    <string name="code_text">Convertir a Hex</string>
+    <string name="decode_text">Convertir a String</string>
+</resources>
